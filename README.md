@@ -1,5 +1,6 @@
 # Single C++ Header Creator
 This script merges a top-level `C++` header file (together with all its sub-headers) into a single file. Useful for merging multiple headers into one (for easier distribution).<br>
+
 Script to be run with Python `3.x`.
 
 ---
